@@ -105,8 +105,6 @@ A Loom walkthrough accompanies the project to explain the assessment approach, s
 
 ## Project Outcome
 
-## Project Outcome
-
 The project provides documented assessments of Annex A control applicability, information security risks, control exclusions and evidence requirements to support X LTD's ISO/IEC 27001:2022 compliance and certification readiness activities.
 
 ## Limitations
