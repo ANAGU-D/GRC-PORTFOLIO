@@ -103,32 +103,6 @@ A Loom walkthrough accompanies the project to explain the assessment approach, s
 
 **Walkthrough:** [WILL BE INSERTED]
 
-## Assessment Principles
-
-### Risk-Informed Control Selection
-
-Control decisions consider the organisation's operating environment, information security risks, relevant requirements and the purpose of each control.
-
-### Defensible Exclusions
-
-Each exclusion requires a documented rationale that reflects the organisation's circumstances. Controls are not excluded merely because they appear unnecessary at first glance.
-
-### Separation of Applicability and Implementation
-
-Applicability and implementation status are assessed separately. An applicable control is not automatically considered implemented, and an implementation claim requires appropriate supporting evidence.
-
-### Evidence-Based Assessment
-
-Evidence references are used to support verification of control implementation. Where evidence is unavailable or implementation has not been verified, this limitation is documented rather than replaced with an unsupported claim.
-
-### Risk and Control Traceability
-
-The project connects identified risks to relevant controls and proposed treatment measures to support review, prioritisation and accountability.
-
-### Ongoing Review
-
-Control applicability and risk treatment decisions should be reassessed when material changes occur in the organisation's operations, technology, suppliers, contractual obligations or risk environment.
-
 ## Project Outcome
 
 The resulting documentation provides a structured basis for reviewing Annex A control applicability, evaluating information security risks, documenting control exclusions, identifying evidence requirements and supporting ISO/IEC 27001:2022 compliance activities.
