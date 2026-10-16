@@ -72,7 +72,7 @@ Control mappings are intended to establish traceability between risks and releva
 
 ## Statement of Applicability Methodology
 
-The Statement of Applicability addresses all 93 Annex A controls across the four control themes established by ISO/IEC 27001:2022.
+The Statement of Applicability covers the 93 Annex A controls in ISO/IEC 27001:2022, across the four control themes.
 
 | Control Theme  | Number of Controls |
 | -------------- | -----------------: |
@@ -82,13 +82,7 @@ The Statement of Applicability addresses all 93 Annex A controls across the four
 | Technological  |                 34 |
 | **Total**      |             **93** |
 
-Each control is assessed in the context of the organisation's operations, information security risks and applicable requirements.
-
-The assessment distinguishes between applicability and implementation status. A control may be applicable even when implementation remains incomplete. Implementation claims require an appropriate evidential basis.
-
-Where a control is assessed as not applicable, the justification should explain why the control is not necessary to address the organisation's circumstances or meet applicable requirements. Exclusions are not based solely on convenience or the absence of traditional infrastructure.
-
-Alternative measures are considered where relevant to the treatment of associated risks. Their existence does not automatically establish that the risks are adequately controlled.
+The SoA documents the applicability and implementation status of each control, the rationale for applicability decisions, and relevant risk and evidence references. Controls assessed as not applicable are supported by documented justifications, with alternative measures identified where relevant.
 
 ## Project Deliverables
 
