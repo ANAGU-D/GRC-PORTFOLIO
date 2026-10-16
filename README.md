@@ -13,7 +13,7 @@ The assessment considered the organisation's operating environment, cloud infras
 | Attribute                      | Description                                                    |
 | ------------------------------ | -------------------------------------------------------------- |
 | Organisation                   | X LTD (name redacted for confidentiality)                      |
-| Industry                       | B2B SaaS — Data Analytics                                      |
+| Industry                       | B2B SaaS -- Data Analytics                                      |
 | Workforce                      | 85 employees                                                   |
 | Operating Model                | Fully remote                                                   |
 | Infrastructure                 | Cloud-based infrastructure hosted on Amazon Web Services (AWS) |
