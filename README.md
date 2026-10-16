@@ -105,18 +105,18 @@ A Loom walkthrough accompanies the project to explain the assessment approach, s
 
 ## Project Outcome
 
-The resulting documentation provides a structured basis for reviewing Annex A control applicability, evaluating information security risks, documenting control exclusions, identifying evidence requirements and supporting ISO/IEC 27001:2022 compliance activities.
+## Project Outcome
 
-The workbooks are intended to support management review, implementation planning and preparation for an independent assessment.
+The project provides documented assessments of Annex A control applicability, information security risks, control exclusions and evidence requirements to support X LTD's ISO/IEC 27001:2022 compliance and certification readiness activities.
 
 ## Limitations
 
-The assessment reflects the organisational information and evidence available during the engagement. Conclusions concerning implementation and control effectiveness depend on the supporting records and verification performed.
+The assessment is based on the organisational information and supporting evidence available during the engagement. Control implementation and effectiveness conclusions are subject to the evidence reviewed.
 
-The preparation of a Statement of Applicability does not, by itself, establish that an organisation has implemented all necessary controls, operates a fully conformant Information Security Management System (ISMS) or has achieved ISO/IEC 27001 certification.
+The Statement of Applicability supports ISO/IEC 27001:2022 compliance activities but does not, on its own, establish full ISMS conformity or certification.
 
 ## Standard Reference
 
-**ISO/IEC 27001:2022** — Information security, cybersecurity and privacy protection — Information security management systems — Requirements.
+**ISO/IEC 27001:2022** - Information security, cybersecurity and privacy protection - Information security management systems - Requirements.
 
 The project addresses the 93 Annex A controls associated with the 2022 edition of the standard.
